@@ -1,8 +1,7 @@
  /**
  * IBM IoT Foundation managed Device
  * 
- * Author: Ant Elder
- * License: Apache License v2
+ * Author: John MacLEod
  */
 #include <ESP8266WiFi.h>
 #include <Wire.h>
