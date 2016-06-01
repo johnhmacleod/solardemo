@@ -2,7 +2,7 @@ This folder contains exported flows from the Node Red app which supports the Sol
 
 For the app to work correctly, some images need to be imported into the Node Red app from the ZIP file contained in this folder.  Do do so, first create a Git repository using the ADD GIT item at the top right of the overview screen for your Node Red app.  Once it has been created, navigate to the GIT repository & import the images as follows:
 
-![GIT Folders(gitfolders.jpg)
+![GIT Folders](gitfolders.jpg)
 
 and restage your application.
 
