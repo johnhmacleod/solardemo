@@ -2,6 +2,8 @@ Here's the list of parts I used for this project:
 
 SunAirPlus Solar Battery Controller
 
+![SunAirPlus](sdl.jpg)
+
 http://store.switchdoc.com/sunairplus-solar-controller-charger-sun-tracker-data-gathering-grove-header/
 
 Solar Cell (Australian supplier - find a local equivalent!) It has to be a 6V cell. If it is to be able to charge the battery and run the ESP8266, it should produce about 500ma (3W) or more.
@@ -29,4 +31,5 @@ SDA           D2
 You will also need the following connectors to attach the battery & solar cell to the SunAirPlus board
 
 ![JST](jst.jpg)
+
 https://littlebirdelectronics.com.au/products/jst-2-pin-cable
