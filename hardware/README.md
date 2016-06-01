@@ -10,6 +10,8 @@ http://www.ebay.com.au/itm/6V-4-5W-520mA-Mini-Solar-Panel-Small-Cell-PV-Module-C
 
 ESP8266 Development Board
 
+![NodeMCU](nodemcu.jpg)
+
 http://www.aliexpress.com/item/new-Wireless-module-CH340-NodeMcu-V3-Lua-WIFI-Internet-of-Things-development-board-based-ESP8266/32520574539.html
 
 The ESP8266 comes on a variety of development boards.  See the following YouTube video for some help in choosing which one to use for your project.  For maximum ease of construction, you should choose one that comes with a USB connection & power regulator.
@@ -26,4 +28,5 @@ SDA           D2
 
 You will also need the following connectors to attach the battery & solar cell to the SunAirPlus board
 
+![JST](jst.jpg)
 https://littlebirdelectronics.com.au/products/jst-2-pin-cable
