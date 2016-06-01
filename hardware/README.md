@@ -26,8 +26,8 @@ To connect up the ESP8266 to the SunAirPlus board, simply connect as follows
 |--------------|----------|
 |3.3V          |VDD|
 |GND           |GND|
-|SCL           |D1|
-|SDA           |D2|
+|D1           |SCL|
+|D2           |SDA|
 
 You will also need the following connectors to attach the battery & solar cell to the SunAirPlus board
 
