@@ -3,3 +3,7 @@ This repository contains assets for the ESP8266 version of the Solar Demo origin
 
 ![Solar](solardemo.jpg)
 
+Now soldered & boxed!
+
+![BoxedSolar](boxeddemo.jpg)
+
