@@ -34,3 +34,12 @@ You will also need the following connectors to attach the battery & solar cell t
 ![JST](jst.jpg)
 
 https://littlebirdelectronics.com.au/products/jst-2-pin-cable
+
+I have now included code to light any LEDs connected from D6,D7,D8 to ground to indicate connection progress, message arrival & (un)successful publication.
+
+|Pin    |Colour |Solid       |Short Flash         |
+|-------|-------|------------|--------------------|
+|D6     |Red    |WiFi Connecting|Failed to Publish|
+|D7     |Yellow |MQTT Connecting|Command Arrived  |
+|D8     |Green  |Up & Running |Successful Publish |
+
